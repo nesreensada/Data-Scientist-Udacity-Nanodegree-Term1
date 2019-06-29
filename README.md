@@ -24,7 +24,7 @@ for [term 2](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Te
 
 3. [Identify Customer Segments](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-/tree/master/projects/p3_identify_customers_clusters): Used unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. The data was provided by Arvato company which required data preprocessing, data reduction and clustering using Kmeans.
 
-##Term 2
+## Term 2
 
 A link for term 2 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2)
 
