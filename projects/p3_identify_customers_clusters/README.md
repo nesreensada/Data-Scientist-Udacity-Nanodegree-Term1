@@ -111,7 +111,9 @@ Comparing the two group we notice that:
 Can we describe segments of the population that are relatively popular with the mail-order company, or relatively unpopular with the company?
 
 - popular include the highest income people, age group above 60 years, wealthy households, event-oriented individuals including family and culutral minded groups with more of traditional attributes direction.
+
 - unpopular include lower age groups, less prescence of low income and less affluent households and in terms of personality socially minded, low family and cultural minded groups are under presented.
+
 
 ### File Descriptions
 
