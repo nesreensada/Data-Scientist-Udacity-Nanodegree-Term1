@@ -5,6 +5,8 @@
 for [term 2](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2)
 * This repo contain the exercises, projects and the extra curricular material.
 
+* this is the link for the certificate: https://confirm.udacity.com/SPCUMMK6
+
 ## Table of Contents
 0. [Extra Curricular](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-/tree/master/Extra%20Curricular): contains review for numpy, pandas, visualizations. **tools**: python, matplotlib, seaborn.
 
